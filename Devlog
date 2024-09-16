@@ -1,3 +1,12 @@
 16/09/24:
 ---
 odb: added mutltiple input lines / a email basic email confirmation check (basic  color change on a shape)
+notes:
+  Need to add these features:
+  -need to stop having the js in the html and in a seperate file
+  -verify email
+  -athestic changes
+  -css
+  -robot verification
+  -commiting data to some kind of database
+  -checking if data does not match to anything in database then commit data to database
