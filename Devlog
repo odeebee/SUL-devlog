@@ -10,3 +10,4 @@ notes:
   -robot verification
   -commiting data to some kind of database
   -checking if data does not match to anything in database then commit data to database
+odb: added password verification anda basic check when the signup button is pressed, next steps are adding a database to push user data to.
